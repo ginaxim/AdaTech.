@@ -1,1 +1,7 @@
-pipipopo
+exercicio utilizando o git, pelo terminal do vscode.
+
+Criei uma branch chamada imgTeste e carreguei uma imagem das trilhas do santander coders 2024.
+
+Criei tambem esse txt apenas para fazer mais uma alteração na main e tambem me acostumar a digitação no terminal com os codigos corretos.
+
+Agora tenho duas branchs, a main e imgTest, agora irei dar merge.
